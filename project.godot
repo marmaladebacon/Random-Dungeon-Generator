@@ -12,13 +12,14 @@ config_version=5
 
 config/name="Random Dungeon Generation"
 config/tags=PackedStringArray("tutorials")
-run/main_scene="res://Dungeon.tscn"
-config/features=PackedStringArray("4.2", "GL Compatibility")
+run/main_scene="res://tileMapExample_deprecated/Dungeon.tscn"
+config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [autoload]
 
-DungeonGenerator="*res://DungeonGenerator.gd"
+DungeonGenerator="*res://tileMapExample_deprecated/DungeonGenerator.gd"
+DungeonLayerGenerator="*res://tileMapLayerExample/dungeon_layer_generator.gd"
 
 [display]
 

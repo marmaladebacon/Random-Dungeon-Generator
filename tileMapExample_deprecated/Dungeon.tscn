@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://bprf478og57bo"]
 
 [ext_resource type="Texture2D" uid="uid://cbm823o10cebv" path="res://assets/64x64 tiles.png" id="1_fpkc7"]
-[ext_resource type="Script" path="res://Dungeon.gd" id="2_tk4xp"]
+[ext_resource type="Script" path="res://tileMapExample_deprecated/Dungeon.gd" id="2_tk4xp"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_655qv"]
 resource_name = "Default"
