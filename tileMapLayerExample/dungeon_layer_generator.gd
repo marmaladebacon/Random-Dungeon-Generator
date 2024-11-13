@@ -1,4 +1,5 @@
 extends Node
+## This file gets added in project settings -> globals, under the DungeonLayerGenerator name
 
 enum Tiles { EMPTY, SOLID }
 

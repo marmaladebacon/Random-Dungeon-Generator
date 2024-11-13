@@ -20,6 +20,7 @@ config/icon="res://icon.svg"
 
 DungeonGenerator="*res://tileMapExample_deprecated/DungeonGenerator.gd"
 DungeonLayerGenerator="*res://tileMapLayerExample/dungeon_layer_generator.gd"
+DungeonAutoLayerGenerator="*res://tileMapAutoLayerExample/dungeon_auto_layer_generator.gd"
 
 [display]
 
